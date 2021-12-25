@@ -1,2 +1,3 @@
 Basic CRUD operation with golang + Mongodb
-go-todo file is executable, can be ignored
+Need to install mongodb locally on the machine before start the project
+
